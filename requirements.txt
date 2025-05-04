@@ -1,0 +1,13 @@
+streamlit
+Pillow
+pytesseract
+tweepy
+requests
+transformers
+python-dotenv
+email-validator
+selenium
+beautifulsoup4
+pandas
+webdriver-manager
+openpyxl
