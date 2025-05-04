@@ -87,6 +87,6 @@ Assista ao vídeo de demonstração do projeto:
 Contribuições são bem-vindas! Fique à vontade para abrir issues ou pull requests.
 
 📫 Contato
-Desenvolvido por Lucas Fernandes Mosqueira
+
 📧 lucas2002mkx@gmail.com
 🔗 linkedin.com/in/lucas-fernandes-mosqueira/
